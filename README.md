@@ -11,7 +11,7 @@
     and frameworks that catch my interest!<br/>
 📫 How to reach me -&gt; drop me a mail at <a href="mailto:imran6156876@gmail.com">ik6156876@gmail.com</a><br/>
 ❤️ You can ping me at <a href="https://www.linkedin.com/in/imran-khan-94439a135/">LinkedIn</a><br/>
-👨‍💻 Want to Know about me <a href="http://imran120198.github.io/">My Portfolio</a>
+👨‍💻 Want to Know about me <a href="http://imran-khan98.github.io/">My Portfolio</a>
 
 <!------------------------Profile view----------------->
 
