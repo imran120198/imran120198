@@ -51,7 +51,7 @@
   
 <br/>
 <br/>
-<img align="center" alt="Imran's github trofy" src="https://github-profile-trophy.vercel.app/?username=imran120198"/>
+<img align="center" alt="Imran's github trofy" src="https://github-profile-trophy.vercel.app/?username=imran-khan98"/>
   
 <br/>
   <br/>
@@ -62,13 +62,13 @@
   <br/>
   <br/>
   
-  <img align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=imran120198&show_icons=true&locale=en"/>
+  <img align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=imran-khan98&show_icons=true&locale=en"/>
   
   <br/>
   <br/>
   <br/>
   
-  <img align="center" alt="language used" src="https://github-readme-stats.vercel.app/api/top-langs?username=imran120198&show_icons=true&locale=en&layout=compact"/>
+  <img align="center" alt="language used" src="https://github-readme-stats.vercel.app/api/top-langs?username=imran-khan98&show_icons=true&locale=en&layout=compact"/>
   
   
   <br/>
