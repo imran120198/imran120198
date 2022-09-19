@@ -16,7 +16,7 @@
 <!------------------------Profile view----------------->
 
 <br/>
-<p> <img src="https://komarev.com/ghpvc/?username=imran120198&label=Profile%20views&color=0e75b6&style=flat" alt="profile view" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=imran-khan98&label=Profile%20views&color=0e75b6&style=flat" alt="profile view" /> </p>
 
 <!---------------------Tech Stack--------------------->
 
