@@ -9,7 +9,7 @@
 👋 Hello, Welcome to my profile<br/>
 ⚡ I'm a web developer with a focus on the MERN stack, but still exploring other technologies
     and frameworks that catch my interest!<br/>
-📫 How to reach me -&gt; drop me a mail at <a href="mailto:imran048941@gmail.com">ik6156876@gmail.com</a><br/>
+📫 How to reach me -&gt; drop me a mail at <a href="mailto:imran6156876@gmail.com">ik6156876@gmail.com</a><br/>
 ❤️ You can ping me at <a href="https://www.linkedin.com/in/imran-khan-94439a135/">LinkedIn</a><br/>
 👨‍💻 Want to Know about me <a href="http://imran120198.github.io/">My Portfolio</a>
 
