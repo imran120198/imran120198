@@ -85,7 +85,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/imran-khan-94439a135/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imran linkedin" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100009689170000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Imran facebook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/imran_______khan______/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imran insta" height="30" width="40" /></a>
+<a href="https://www.instagram.com/imrankhanspeaks_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imran insta" height="30" width="40" /></a>
 </p>
 
 
