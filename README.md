@@ -62,7 +62,7 @@
   
 <br/>
 <br/>
-<img align="center" alt="Imran's github trofy" src="https://github-profile-trophy.vercel.app/?username=imran120198&theme=radical&hide_border=false"/>
+<img align="center" alt="Imran's github trofy" src="https://github-profile-trophy.vercel.app/?username=imran120198&theme=radical"/>
   
 <br/>
   <br/>
