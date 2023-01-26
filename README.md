@@ -62,12 +62,13 @@
   
 <br/>
 <br/>
-<img align="center" alt="Imran's github trofy" src="https://github-profile-trophy.vercel.app/?username=imran120198&theme=radical"/>
+<img align="center" alt="Imran's github trophy" src="https://github-profile-trophy.vercel.app/?username=imran120198&theme=radical&hide_border=false"/>
   
 <br/>
   <br/>
   <br/>
  <img align="center" alt="Imran's github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=imran120198&theme=radical&hide_border=false"/>
+    
   
   <br/>
   <br/>
