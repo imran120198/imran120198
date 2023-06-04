@@ -67,14 +67,14 @@
 <br/>
   <br/>
   <br/>
- <img align="center" alt="Imran's github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=imran120198&theme=radical&hide_border=false"/>
+ <img align="center" alt="Imran's github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=imran120198&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
     
   
   <br/>
   <br/>
   <br/>
   
-  <img align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=imran120198&show_icons=true&locale=en&theme=radical&hide_border=false"/>
+  <img align="center" alt="github stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=imran120198&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
   
   <br/>
   <br/>
